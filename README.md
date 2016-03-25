@@ -1,0 +1,3 @@
+# python
+Some python code...
+most of them will be practice projects
