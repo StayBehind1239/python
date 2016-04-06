@@ -1,3 +1,4 @@
 # python
 Some python code...
-most of them will be practice projects
+
+most of it will be from practice projects
