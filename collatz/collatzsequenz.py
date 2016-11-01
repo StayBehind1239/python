@@ -16,4 +16,4 @@ try:
         newnumber = int(input())
         collatz(newnumber)
 except ValueError:
-        print('Maybe you should use a integer ^^')
+        print('Maybe you should use an integer ^^')
