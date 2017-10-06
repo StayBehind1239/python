@@ -1,3 +1,8 @@
 # python
 
-Some practice projects
+Some practice projects:
+
+- clipboardedit
+- collatz
+- fibonacci
+- passwordlocker
